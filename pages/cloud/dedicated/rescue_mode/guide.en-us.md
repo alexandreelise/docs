@@ -46,7 +46,7 @@ In the next page, select **Boot in rescue mode**. If your server has a Linux-bas
 
 > [!warning]
 >
-> Some customers may encounter issue with the rescue email's language: in french rather than in english. Despite this issue has been fixed the 20th of September 2022, customers still need to re-precise an email address at least once by server from this date in order to definitely fix that issue.
+> Some OVHcloud customer accounts may be affected by an error regarding the language of rescue emails: they are sent in French instead of the chosen account language. Although the cause of the error has been corrected since September 20, 2022, the email address needs to be updated once to resolve the issue. To do this, enter your customer account's email address in this step before you enable rescue mode.
 >
 
 Click on `Next`{.action} to proceed to the next step and on `Confirm`{.action} to validate the change.

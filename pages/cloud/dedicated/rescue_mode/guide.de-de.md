@@ -48,7 +48,7 @@ Suchen Sie "Boot" im Bereich **Allgemeine Informationen** und klicken Sie auf `.
 Auf der nächsten Seite, wählen Sie **Im Rescue-Modus booten**. Wenn Ihr Server über ein Linux-Betriebssystem verfügt, wählen Sie `rescue-customer`{.action} im Drop-down-Menü aus. Wenn Ihr Server auf Windows läuft, können Sie auch `WinRescue`{.action} wählen ([vgl. Abschnitt unten](#windowsrescue)). Geben Sie eine alternative E-Mail-Adresse an, wenn Sie *nicht* möchten, dass die Login-Daten an die Hauptadresse Ihres OVHcloud Kunden-Accounts gesendet werden.
 
 > [!warning]
-> Ein Teil der OVHcloud-Kunden können ein Problem mit der Sprache der Rescue-E-Mails treffen: französische Sprache statt deutsche Sprache. Obwohl dieses Problem am 20. September 2022 korrigiert wurde, muss die Kunden ihre E-Mail-Adresse ab diesem Datum mindestens einmal auf dem Server neu eingeben, um das Problem endgültig zu korrigieren.
+> Ein Teil der OVHcloud-Kunden können von einem Problem bezüglich der Sprache der Rescue-E-Mails betroffen sein: französische Sprache statt deutsche Sprache. Obwohl die Problemursache seit dem 20. September 2022 behoben ist, müssen Kunden ihre E-Mail-Adresse ab diesem Datum mindestens einmal auf dem Server neu eingeben, um das Problem endgültig zu korrigieren.
 >
 
 Klicken Sie auf `Weiter`{.action} um mit dem nächsten Schritt fortzufahren, und dann auf `Bestätigen`{.action}.
@@ -157,7 +157,7 @@ Um den Rescue-Modus zu verlassen, ändern Sie im [OVHcloud Kundencenter](https:/
 
 #### Verwendung der WinRescue-Tools
 
-Nach dem Neustart Ihres Servers erhalten Sie eine E-Mail mit den Login-Daten des Rescue-Modus. Diese E-Mail ist auch in Ihrem [OVHcloud Kundencenter] (<https://www.ovh.com/auth/?action=gotomanager&from=https://www.ovh.de/&ovhSubsidiary=de>) verfügbar. Klicken Sie in der oberen rechten Ecke Ihres Kundencenters auf den Namen Ihrer Kundenkennung und anschließend auf `E-Mails vom Support`{.action}.
+Nach dem Neustart Ihres Servers erhalten Sie eine E-Mail mit den Login-Daten des Rescue-Modus. Diese E-Mail ist auch in Ihrem [OVHcloud Kundencenter](https://www.ovh.com/auth/?action=gotomanager&from=https://www.ovh.de/&ovhSubsidiary=de) verfügbar. Klicken Sie in der oberen rechten Ecke Ihres Kundencenters auf den Namen Ihrer Kundenkennung und anschließend auf `E-Mails vom Support`{.action}.
 
 Um die GUI für den Windows-Rescue-Modus zu verwenden, müssen Sie eine VNC-Konsole herunterladen und installieren oder das `IPMI`-Modul in Ihrem [OVHcloud-Kundencenter](https://www.ovh.com/auth/?action=gotomanager&from=https://www.ovh.de/&ovhSubsidiary=de){.external} verwenden.
 
